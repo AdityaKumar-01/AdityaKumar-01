@@ -5,3 +5,6 @@
 - 🌱 I’m currently learning ML and Deep learning 
 - 👯 I welcome anyone to collaborate for any project on Web or ML
 - 🥅 2021 Goals: Enhance problem solving skills
+
+<img src="./assets/mongo.png">
+[website]: https://adityak13.netlify.app/
