@@ -12,7 +12,7 @@
 </h3>
 <p align="center">
     <img src="./assest/mongo.png" height=50 hspace=20>
-   <img src="./assest/express.png" height=50 hspace=20>
+   <img src="./assest/express.jpg" height=50 hspace=20>
    <img src="./assest/react.png" height=50 hspace=20>
    <img src="./assest/node.png" height=50 hspace=20>
 </p>
