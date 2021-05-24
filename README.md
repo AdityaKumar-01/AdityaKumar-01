@@ -1,6 +1,6 @@
-### Hi there 👋, I'm [Aditya][website] 
+ <h1 align ="center">Hi there 👋, I'm Aditya</h1> 
 
-## I'm a Full-Stack web developer!!
+## I'm a MERN developer!!
 
 - 🌱 I’m currently learning ML and Deep learning 
 - 🤜🏻🤛🏻 I welcome anyone to collaborate for any project on Web or ML
