@@ -1,13 +1,13 @@
- <h1 align ="center">Hi there 👋, I'm Aditya</h1> 
+ <h1 align ="center">Hi there‼️ I'm Aditya</h1> 
 
 ## I'm a MERN developer!!
 
-- 🌱 I’m currently learning ML and Deep learning 
+- 💻 I’m currently learning about <b>Microservice</b> 
 - 🤜🏻🤛🏻 I welcome anyone to collaborate for any project on Web or ML
-- 🥅 2021 Goals: Enhance problem solving skills
+- 🎯 2021 Goals: Enhance problem solving skills
 <h3 align="center">
   <code>
-    My Tech-Stack
+   < My Tech-Stack / >
   </code>
 </h3>
 <p align="center">
